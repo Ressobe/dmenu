@@ -8,6 +8,7 @@ static const char *fonts[] = {
 };
 static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */
 
+/* #include "/home/relow/.config/suckless/dwm/themes/monokai/colors-wal-dmenu.h" */
 #include "/home/relow/.cache/wal/colors-wal-dmenu.h"
 /*static const char *colors[SchemeLast][2] = {
 	//     fg         bg       
